@@ -1,0 +1,13 @@
+What is unit testing? 
+unit testing is to test the smallest units or software components in a program.
+
+Unit testing is usually conducted by a developer.
+
+It is type of white box testing
+
+What is integration testing?
+integration testing is the combined execution of two or more components that have been created by multiple programmers.
+
+integration testing is multiple programmers
+
+It is type of both white box and black box testing
